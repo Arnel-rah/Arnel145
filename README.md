@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnel145
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning JAVA
+
 
 <!---
 Arnel145/Arnel145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
